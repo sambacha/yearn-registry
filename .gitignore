@@ -1,7 +1,7 @@
 node_modules
 .env
 #Buidler files
-cache
-artifacts
+#cache
+#artifacts
 contracts-bk
 TODO.md
