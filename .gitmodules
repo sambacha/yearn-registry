@@ -1,0 +1,3 @@
+[submodule "ethereum-typescript-template"]
+	path = ethereum-typescript-template
+	url = https://github.com/Zoltu/ethereum-typescript-template
